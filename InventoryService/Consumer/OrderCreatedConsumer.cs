@@ -13,7 +13,11 @@ namespace InventoryService.Consumer
         {
             _db = db;
         }
-
+        /// <summary>
+        /// 
+        /// </summary>
+        /// <param name="context"></param>
+        /// <returns></returns>
         public async Task Consume(ConsumeContext<OrderCreatedEvent> context)
         {
             var msg = context.Message;

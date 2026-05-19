@@ -3,8 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\naveed\\source\\repos\\AcmeMicroservices\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F753B4E4-0023-4719-9F27-67B9B45D6F15}|Gateway(Yarp)\\Gateway(YARP).csproj|c:\\users\\naveed\\source\\repos\\acmemicroservices\\gateway(yarp)\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{F753B4E4-0023-4719-9F27-67B9B45D6F15}|Gateway(Yarp)\\Gateway(YARP).csproj|solutionrelative:gateway(yarp)\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{AA0868BE-A252-4033-AFC7-C49338142330}|InventoryService\\InventoryService.csproj|c:\\users\\naveed\\source\\repos\\acmemicroservices\\inventoryservice\\consumer\\ordercreatedconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA0868BE-A252-4033-AFC7-C49338142330}|InventoryService\\InventoryService.csproj|solutionrelative:inventoryservice\\consumer\\ordercreatedconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5DA6A00-AFB8-41B5-8671-2D9B711374BF}|SharedContracts\\SharedContracts.csproj|c:\\users\\naveed\\source\\repos\\acmemicroservices\\sharedcontracts\\productcreatedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5DA6A00-AFB8-41B5-8671-2D9B711374BF}|SharedContracts\\SharedContracts.csproj|solutionrelative:sharedcontracts\\productcreatedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5DA6A00-AFB8-41B5-8671-2D9B711374BF}|SharedContracts\\SharedContracts.csproj|c:\\users\\naveed\\source\\repos\\acmemicroservices\\sharedcontracts\\paymentcompletedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5DA6A00-AFB8-41B5-8671-2D9B711374BF}|SharedContracts\\SharedContracts.csproj|solutionrelative:sharedcontracts\\paymentcompletedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5DA6A00-AFB8-41B5-8671-2D9B711374BF}|SharedContracts\\SharedContracts.csproj|c:\\users\\naveed\\source\\repos\\acmemicroservices\\sharedcontracts\\orderfailedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5DA6A00-AFB8-41B5-8671-2D9B711374BF}|SharedContracts\\SharedContracts.csproj|solutionrelative:sharedcontracts\\orderfailedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5DA6A00-AFB8-41B5-8671-2D9B711374BF}|SharedContracts\\SharedContracts.csproj|c:\\users\\naveed\\source\\repos\\acmemicroservices\\sharedcontracts\\ordercreatedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5DA6A00-AFB8-41B5-8671-2D9B711374BF}|SharedContracts\\SharedContracts.csproj|solutionrelative:sharedcontracts\\ordercreatedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5DA6A00-AFB8-41B5-8671-2D9B711374BF}|SharedContracts\\SharedContracts.csproj|c:\\users\\naveed\\source\\repos\\acmemicroservices\\sharedcontracts\\orderconfirmedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5DA6A00-AFB8-41B5-8671-2D9B711374BF}|SharedContracts\\SharedContracts.csproj|solutionrelative:sharedcontracts\\orderconfirmedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5DA6A00-AFB8-41B5-8671-2D9B711374BF}|SharedContracts\\SharedContracts.csproj|c:\\users\\naveed\\source\\repos\\acmemicroservices\\sharedcontracts\\inventoryreservedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5DA6A00-AFB8-41B5-8671-2D9B711374BF}|SharedContracts\\SharedContracts.csproj|solutionrelative:sharedcontracts\\inventoryreservedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F753B4E4-0023-4719-9F27-67B9B45D6F15}|Gateway(Yarp)\\Gateway(YARP).csproj|c:\\users\\naveed\\source\\repos\\acmemicroservices\\gateway(yarp)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -15,28 +39,20 @@
       "RelativeMoniker": "D:0:0:{308D764F-1C60-425A-82F9-FC5270CF25FD}|OrderService\\OrderService.csproj|solutionrelative:orderservice\\data\\orderdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{308D764F-1C60-425A-82F9-FC5270CF25FD}|OrderService\\OrderService.csproj|c:\\users\\naveed\\source\\repos\\acmemicroservices\\orderservice\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{308D764F-1C60-425A-82F9-FC5270CF25FD}|OrderService\\OrderService.csproj|solutionrelative:orderservice\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F753B4E4-0023-4719-9F27-67B9B45D6F15}|Gateway(Yarp)\\Gateway(YARP).csproj|c:\\users\\naveed\\source\\repos\\acmemicroservices\\gateway(yarp)\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F753B4E4-0023-4719-9F27-67B9B45D6F15}|Gateway(Yarp)\\Gateway(YARP).csproj|solutionrelative:gateway(yarp)\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{308D764F-1C60-425A-82F9-FC5270CF25FD}|OrderService\\OrderService.csproj|c:\\users\\naveed\\source\\repos\\acmemicroservices\\orderservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{308D764F-1C60-425A-82F9-FC5270CF25FD}|OrderService\\OrderService.csproj|solutionrelative:orderservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5070E63F-68E4-4231-A5F9-5B29E7D46332}|UserService\\UserService.csproj|c:\\users\\naveed\\source\\repos\\acmemicroservices\\userservice\\userservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{5070E63F-68E4-4231-A5F9-5B29E7D46332}|UserService\\UserService.csproj|solutionrelative:userservice\\userservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B5DA6A00-AFB8-41B5-8671-2D9B711374BF}|SharedContracts\\SharedContracts.csproj|c:\\users\\naveed\\source\\repos\\acmemicroservices\\sharedcontracts\\inventoryreservedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B5DA6A00-AFB8-41B5-8671-2D9B711374BF}|SharedContracts\\SharedContracts.csproj|solutionrelative:sharedcontracts\\inventoryreservedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B5DA6A00-AFB8-41B5-8671-2D9B711374BF}|SharedContracts\\SharedContracts.csproj|c:\\users\\naveed\\source\\repos\\acmemicroservices\\sharedcontracts\\orderconfirmedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B5DA6A00-AFB8-41B5-8671-2D9B711374BF}|SharedContracts\\SharedContracts.csproj|solutionrelative:sharedcontracts\\orderconfirmedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AA0868BE-A252-4033-AFC7-C49338142330}|InventoryService\\InventoryService.csproj|c:\\users\\naveed\\source\\repos\\acmemicroservices\\inventoryservice\\consumer\\ordercreatedconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AA0868BE-A252-4033-AFC7-C49338142330}|InventoryService\\InventoryService.csproj|solutionrelative:inventoryservice\\consumer\\ordercreatedconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B5DA6A00-AFB8-41B5-8671-2D9B711374BF}|SharedContracts\\SharedContracts.csproj|c:\\users\\naveed\\source\\repos\\acmemicroservices\\sharedcontracts\\orderfailedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B5DA6A00-AFB8-41B5-8671-2D9B711374BF}|SharedContracts\\SharedContracts.csproj|solutionrelative:sharedcontracts\\orderfailedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{308D764F-1C60-425A-82F9-FC5270CF25FD}|OrderService\\OrderService.csproj|c:\\users\\naveed\\source\\repos\\acmemicroservices\\orderservice\\services\\orderconfirmedconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -49,10 +65,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{308D764F-1C60-425A-82F9-FC5270CF25FD}|OrderService\\OrderService.csproj|c:\\users\\naveed\\source\\repos\\acmemicroservices\\orderservice\\services\\ordersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{308D764F-1C60-425A-82F9-FC5270CF25FD}|OrderService\\OrderService.csproj|solutionrelative:orderservice\\services\\ordersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B5DA6A00-AFB8-41B5-8671-2D9B711374BF}|SharedContracts\\SharedContracts.csproj|c:\\users\\naveed\\source\\repos\\acmemicroservices\\sharedcontracts\\ordercreatedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B5DA6A00-AFB8-41B5-8671-2D9B711374BF}|SharedContracts\\SharedContracts.csproj|solutionrelative:sharedcontracts\\ordercreatedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AA0868BE-A252-4033-AFC7-C49338142330}|InventoryService\\InventoryService.csproj|c:\\users\\naveed\\source\\repos\\acmemicroservices\\inventoryservice\\controllers\\inventorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -71,10 +83,6 @@
       "RelativeMoniker": "D:0:0:{DF03769B-C547-4651-BAFD-BD1ABD91DF70}|ProductService\\ProductService.csproj|solutionrelative:productservice\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{308D764F-1C60-425A-82F9-FC5270CF25FD}|OrderService\\OrderService.csproj|c:\\users\\naveed\\source\\repos\\acmemicroservices\\orderservice\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{308D764F-1C60-425A-82F9-FC5270CF25FD}|OrderService\\OrderService.csproj|solutionrelative:orderservice\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{308D764F-1C60-425A-82F9-FC5270CF25FD}|OrderService\\OrderService.csproj|c:\\users\\naveed\\source\\repos\\acmemicroservices\\orderservice\\dtos\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{308D764F-1C60-425A-82F9-FC5270CF25FD}|OrderService\\OrderService.csproj|solutionrelative:orderservice\\dtos\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -85,14 +93,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{DF03769B-C547-4651-BAFD-BD1ABD91DF70}|ProductService\\ProductService.csproj|c:\\users\\naveed\\source\\repos\\acmemicroservices\\productservice\\services\\productservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DF03769B-C547-4651-BAFD-BD1ABD91DF70}|ProductService\\ProductService.csproj|solutionrelative:productservice\\services\\productservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B5DA6A00-AFB8-41B5-8671-2D9B711374BF}|SharedContracts\\SharedContracts.csproj|c:\\users\\naveed\\source\\repos\\acmemicroservices\\sharedcontracts\\productcreatedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B5DA6A00-AFB8-41B5-8671-2D9B711374BF}|SharedContracts\\SharedContracts.csproj|solutionrelative:sharedcontracts\\productcreatedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B5DA6A00-AFB8-41B5-8671-2D9B711374BF}|SharedContracts\\SharedContracts.csproj|c:\\users\\naveed\\source\\repos\\acmemicroservices\\sharedcontracts\\paymentcompletedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B5DA6A00-AFB8-41B5-8671-2D9B711374BF}|SharedContracts\\SharedContracts.csproj|solutionrelative:sharedcontracts\\paymentcompletedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AA0868BE-A252-4033-AFC7-C49338142330}|InventoryService\\InventoryService.csproj|c:\\users\\naveed\\source\\repos\\acmemicroservices\\inventoryservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -202,210 +202,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 5,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "OrderConfirmedEvent.cs",
-              "DocumentMoniker": "C:\\Users\\naveed\\source\\repos\\AcmeMicroservices\\SharedContracts\\OrderConfirmedEvent.cs",
-              "RelativeDocumentMoniker": "SharedContracts\\OrderConfirmedEvent.cs",
-              "ToolTip": "C:\\Users\\naveed\\source\\repos\\AcmeMicroservices\\SharedContracts\\OrderConfirmedEvent.cs",
-              "RelativeToolTip": "SharedContracts\\OrderConfirmedEvent.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-18T12:28:57.833Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "InventoryReservedEvent.cs",
-              "DocumentMoniker": "C:\\Users\\naveed\\source\\repos\\AcmeMicroservices\\SharedContracts\\InventoryReservedEvent.cs",
-              "RelativeDocumentMoniker": "SharedContracts\\InventoryReservedEvent.cs",
-              "ToolTip": "C:\\Users\\naveed\\source\\repos\\AcmeMicroservices\\SharedContracts\\InventoryReservedEvent.cs",
-              "RelativeToolTip": "SharedContracts\\InventoryReservedEvent.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-15T14:46:03.917Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Order.cs",
-              "DocumentMoniker": "C:\\Users\\naveed\\source\\repos\\AcmeMicroservices\\OrderService\\Models\\Order.cs",
-              "RelativeDocumentMoniker": "OrderService\\Models\\Order.cs",
-              "ToolTip": "C:\\Users\\naveed\\source\\repos\\AcmeMicroservices\\OrderService\\Models\\Order.cs",
-              "RelativeToolTip": "OrderService\\Models\\Order.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-15T15:04:22.05Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "OrdersService.cs",
-              "DocumentMoniker": "C:\\Users\\naveed\\source\\repos\\AcmeMicroservices\\OrderService\\Services\\OrdersService.cs",
-              "RelativeDocumentMoniker": "OrderService\\Services\\OrdersService.cs",
-              "ToolTip": "C:\\Users\\naveed\\source\\repos\\AcmeMicroservices\\OrderService\\Services\\OrdersService.cs",
-              "RelativeToolTip": "OrderService\\Services\\OrdersService.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-15T14:56:24.131Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\naveed\\source\\repos\\AcmeMicroservices\\Gateway(Yarp)\\Program.cs",
-              "RelativeDocumentMoniker": "Gateway(Yarp)\\Program.cs",
-              "ToolTip": "C:\\Users\\naveed\\source\\repos\\AcmeMicroservices\\Gateway(Yarp)\\Program.cs",
-              "RelativeToolTip": "Gateway(Yarp)\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-13T14:39:39.822Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\naveed\\source\\repos\\AcmeMicroservices\\OrderService\\Program.cs",
-              "RelativeDocumentMoniker": "OrderService\\Program.cs",
-              "ToolTip": "C:\\Users\\naveed\\source\\repos\\AcmeMicroservices\\OrderService\\Program.cs",
-              "RelativeToolTip": "OrderService\\Program.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAMwB0AAABCAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-15T15:28:33.419Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\naveed\\source\\repos\\AcmeMicroservices\\Gateway(Yarp)\\appsettings.json",
-              "RelativeDocumentMoniker": "Gateway(Yarp)\\appsettings.json",
-              "ToolTip": "C:\\Users\\naveed\\source\\repos\\AcmeMicroservices\\Gateway(Yarp)\\appsettings.json",
-              "RelativeToolTip": "Gateway(Yarp)\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-05-13T14:37:21.616Z",
-              "EditorCaption": ""
-            },
-            {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "OrderDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\naveed\\source\\repos\\AcmeMicroservices\\OrderService\\Data\\OrderDbContext.cs",
-              "RelativeDocumentMoniker": "OrderService\\Data\\OrderDbContext.cs",
-              "ToolTip": "C:\\Users\\naveed\\source\\repos\\AcmeMicroservices\\OrderService\\Data\\OrderDbContext.cs",
-              "RelativeToolTip": "OrderService\\Data\\OrderDbContext.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-15T14:58:23.258Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "OrderConfirmedConsumer.cs",
-              "DocumentMoniker": "C:\\Users\\naveed\\source\\repos\\AcmeMicroservices\\OrderService\\Services\\OrderConfirmedConsumer.cs",
-              "RelativeDocumentMoniker": "OrderService\\Services\\OrderConfirmedConsumer.cs",
-              "ToolTip": "C:\\Users\\naveed\\source\\repos\\AcmeMicroservices\\OrderService\\Services\\OrderConfirmedConsumer.cs",
-              "RelativeToolTip": "OrderService\\Services\\OrderConfirmedConsumer.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAnwBcAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-18T12:30:57.148Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "OrderFailedEvent.cs",
-              "DocumentMoniker": "C:\\Users\\naveed\\source\\repos\\AcmeMicroservices\\SharedContracts\\OrderFailedEvent.cs",
-              "RelativeDocumentMoniker": "SharedContracts\\OrderFailedEvent.cs",
-              "ToolTip": "C:\\Users\\naveed\\source\\repos\\AcmeMicroservices\\SharedContracts\\OrderFailedEvent.cs",
-              "RelativeToolTip": "SharedContracts\\OrderFailedEvent.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-15T14:47:26.667Z",
-              "EditorCaption": ""
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "UserService.csproj",
-              "DocumentMoniker": "C:\\Users\\naveed\\source\\repos\\AcmeMicroservices\\UserService\\UserService.csproj",
-              "RelativeDocumentMoniker": "UserService\\UserService.csproj",
-              "ToolTip": "C:\\Users\\naveed\\source\\repos\\AcmeMicroservices\\UserService\\UserService.csproj",
-              "RelativeToolTip": "UserService\\UserService.csproj",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-05-14T15:27:58.196Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "OrderCreatedConsumer.cs",
-              "DocumentMoniker": "C:\\Users\\naveed\\source\\repos\\AcmeMicroservices\\InventoryService\\Consumer\\OrderCreatedConsumer.cs",
-              "RelativeDocumentMoniker": "InventoryService\\Consumer\\OrderCreatedConsumer.cs",
-              "ToolTip": "C:\\Users\\naveed\\source\\repos\\AcmeMicroservices\\InventoryService\\Consumer\\OrderCreatedConsumer.cs",
-              "RelativeToolTip": "InventoryService\\Consumer\\OrderCreatedConsumer.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAowCcAAAA9AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-15T15:11:57.914Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "InventoryController.cs",
-              "DocumentMoniker": "C:\\Users\\naveed\\source\\repos\\AcmeMicroservices\\InventoryService\\Controllers\\InventoryController.cs",
-              "RelativeDocumentMoniker": "InventoryService\\Controllers\\InventoryController.cs",
-              "ToolTip": "C:\\Users\\naveed\\source\\repos\\AcmeMicroservices\\InventoryService\\Controllers\\InventoryController.cs",
-              "RelativeToolTip": "InventoryService\\Controllers\\InventoryController.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAwAAAA5AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-18T13:59:12.406Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Inventory.cs",
-              "DocumentMoniker": "C:\\Users\\naveed\\source\\repos\\AcmeMicroservices\\InventoryService\\Models\\Inventory.cs",
-              "RelativeDocumentMoniker": "InventoryService\\Models\\Inventory.cs",
-              "ToolTip": "C:\\Users\\naveed\\source\\repos\\AcmeMicroservices\\InventoryService\\Models\\Inventory.cs",
-              "RelativeToolTip": "InventoryService\\Models\\Inventory.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-15T14:23:18.145Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "InventoryDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\naveed\\source\\repos\\AcmeMicroservices\\InventoryService\\Data\\InventoryDbContext.cs",
-              "RelativeDocumentMoniker": "InventoryService\\Data\\InventoryDbContext.cs",
-              "ToolTip": "C:\\Users\\naveed\\source\\repos\\AcmeMicroservices\\InventoryService\\Data\\InventoryDbContext.cs",
-              "RelativeToolTip": "InventoryService\\Data\\InventoryDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-15T14:24:13.047Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
               "Title": "OrderCreatedEvent.cs",
               "DocumentMoniker": "C:\\Users\\naveed\\source\\repos\\AcmeMicroservices\\SharedContracts\\OrderCreatedEvent.cs",
               "RelativeDocumentMoniker": "SharedContracts\\OrderCreatedEvent.cs",
@@ -418,7 +223,233 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrderFailedEvent.cs",
+              "DocumentMoniker": "C:\\Users\\naveed\\source\\repos\\AcmeMicroservices\\SharedContracts\\OrderFailedEvent.cs",
+              "RelativeDocumentMoniker": "SharedContracts\\OrderFailedEvent.cs",
+              "ToolTip": "C:\\Users\\naveed\\source\\repos\\AcmeMicroservices\\SharedContracts\\OrderFailedEvent.cs",
+              "RelativeToolTip": "SharedContracts\\OrderFailedEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T14:47:26.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PaymentCompletedEvent.cs",
+              "DocumentMoniker": "C:\\Users\\naveed\\source\\repos\\AcmeMicroservices\\SharedContracts\\PaymentCompletedEvent.cs",
+              "RelativeDocumentMoniker": "SharedContracts\\PaymentCompletedEvent.cs",
+              "ToolTip": "C:\\Users\\naveed\\source\\repos\\AcmeMicroservices\\SharedContracts\\PaymentCompletedEvent.cs",
+              "RelativeToolTip": "SharedContracts\\PaymentCompletedEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T14:46:50.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductCreatedEvent.cs",
+              "DocumentMoniker": "C:\\Users\\naveed\\source\\repos\\AcmeMicroservices\\SharedContracts\\ProductCreatedEvent.cs",
+              "RelativeDocumentMoniker": "SharedContracts\\ProductCreatedEvent.cs",
+              "ToolTip": "C:\\Users\\naveed\\source\\repos\\AcmeMicroservices\\SharedContracts\\ProductCreatedEvent.cs",
+              "RelativeToolTip": "SharedContracts\\ProductCreatedEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T15:24:06.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrderCreatedConsumer.cs",
+              "DocumentMoniker": "C:\\Users\\naveed\\source\\repos\\AcmeMicroservices\\InventoryService\\Consumer\\OrderCreatedConsumer.cs",
+              "RelativeDocumentMoniker": "InventoryService\\Consumer\\OrderCreatedConsumer.cs",
+              "ToolTip": "C:\\Users\\naveed\\source\\repos\\AcmeMicroservices\\InventoryService\\Consumer\\OrderCreatedConsumer.cs",
+              "RelativeToolTip": "InventoryService\\Consumer\\OrderCreatedConsumer.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T15:11:57.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrderConfirmedEvent.cs",
+              "DocumentMoniker": "C:\\Users\\naveed\\source\\repos\\AcmeMicroservices\\SharedContracts\\OrderConfirmedEvent.cs",
+              "RelativeDocumentMoniker": "SharedContracts\\OrderConfirmedEvent.cs",
+              "ToolTip": "C:\\Users\\naveed\\source\\repos\\AcmeMicroservices\\SharedContracts\\OrderConfirmedEvent.cs",
+              "RelativeToolTip": "SharedContracts\\OrderConfirmedEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T12:28:57.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "InventoryReservedEvent.cs",
+              "DocumentMoniker": "C:\\Users\\naveed\\source\\repos\\AcmeMicroservices\\SharedContracts\\InventoryReservedEvent.cs",
+              "RelativeDocumentMoniker": "SharedContracts\\InventoryReservedEvent.cs",
+              "ToolTip": "C:\\Users\\naveed\\source\\repos\\AcmeMicroservices\\SharedContracts\\InventoryReservedEvent.cs",
+              "RelativeToolTip": "SharedContracts\\InventoryReservedEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T14:46:03.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\naveed\\source\\repos\\AcmeMicroservices\\Gateway(Yarp)\\Program.cs",
+              "RelativeDocumentMoniker": "Gateway(Yarp)\\Program.cs",
+              "ToolTip": "C:\\Users\\naveed\\source\\repos\\AcmeMicroservices\\Gateway(Yarp)\\Program.cs",
+              "RelativeToolTip": "Gateway(Yarp)\\Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACoAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T14:39:39.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OrderDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\naveed\\source\\repos\\AcmeMicroservices\\OrderService\\Data\\OrderDbContext.cs",
+              "RelativeDocumentMoniker": "OrderService\\Data\\OrderDbContext.cs",
+              "ToolTip": "C:\\Users\\naveed\\source\\repos\\AcmeMicroservices\\OrderService\\Data\\OrderDbContext.cs",
+              "RelativeToolTip": "OrderService\\Data\\OrderDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T14:58:23.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "C:\\Users\\naveed\\source\\repos\\AcmeMicroservices\\OrderService\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "OrderService\\Controllers\\OrdersController.cs",
+              "ToolTip": "C:\\Users\\naveed\\source\\repos\\AcmeMicroservices\\OrderService\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "OrderService\\Controllers\\OrdersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T14:53:59.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\naveed\\source\\repos\\AcmeMicroservices\\Gateway(Yarp)\\appsettings.json",
+              "RelativeDocumentMoniker": "Gateway(Yarp)\\appsettings.json",
+              "ToolTip": "C:\\Users\\naveed\\source\\repos\\AcmeMicroservices\\Gateway(Yarp)\\appsettings.json",
+              "RelativeToolTip": "Gateway(Yarp)\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-13T14:37:21.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\naveed\\source\\repos\\AcmeMicroservices\\OrderService\\Program.cs",
+              "RelativeDocumentMoniker": "OrderService\\Program.cs",
+              "ToolTip": "C:\\Users\\naveed\\source\\repos\\AcmeMicroservices\\OrderService\\Program.cs",
+              "RelativeToolTip": "OrderService\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAMwB0AAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T15:28:33.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "OrdersService.cs",
+              "DocumentMoniker": "C:\\Users\\naveed\\source\\repos\\AcmeMicroservices\\OrderService\\Services\\OrdersService.cs",
+              "RelativeDocumentMoniker": "OrderService\\Services\\OrdersService.cs",
+              "ToolTip": "C:\\Users\\naveed\\source\\repos\\AcmeMicroservices\\OrderService\\Services\\OrdersService.cs",
+              "RelativeToolTip": "OrderService\\Services\\OrdersService.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T14:56:24.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\naveed\\source\\repos\\AcmeMicroservices\\OrderService\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "OrderService\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\naveed\\source\\repos\\AcmeMicroservices\\OrderService\\Models\\Order.cs",
+              "RelativeToolTip": "OrderService\\Models\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T15:04:22.05Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "OrderConfirmedConsumer.cs",
+              "DocumentMoniker": "C:\\Users\\naveed\\source\\repos\\AcmeMicroservices\\OrderService\\Services\\OrderConfirmedConsumer.cs",
+              "RelativeDocumentMoniker": "OrderService\\Services\\OrderConfirmedConsumer.cs",
+              "ToolTip": "C:\\Users\\naveed\\source\\repos\\AcmeMicroservices\\OrderService\\Services\\OrderConfirmedConsumer.cs",
+              "RelativeToolTip": "OrderService\\Services\\OrderConfirmedConsumer.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAnwBcAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T12:30:57.148Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserService.csproj",
+              "DocumentMoniker": "C:\\Users\\naveed\\source\\repos\\AcmeMicroservices\\UserService\\UserService.csproj",
+              "RelativeDocumentMoniker": "UserService\\UserService.csproj",
+              "ToolTip": "C:\\Users\\naveed\\source\\repos\\AcmeMicroservices\\UserService\\UserService.csproj",
+              "RelativeToolTip": "UserService\\UserService.csproj",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-14T15:27:58.196Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 16,
+              "Title": "InventoryController.cs",
+              "DocumentMoniker": "C:\\Users\\naveed\\source\\repos\\AcmeMicroservices\\InventoryService\\Controllers\\InventoryController.cs",
+              "RelativeDocumentMoniker": "InventoryService\\Controllers\\InventoryController.cs",
+              "ToolTip": "C:\\Users\\naveed\\source\\repos\\AcmeMicroservices\\InventoryService\\Controllers\\InventoryController.cs",
+              "RelativeToolTip": "InventoryService\\Controllers\\InventoryController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAwAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T13:59:12.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Inventory.cs",
+              "DocumentMoniker": "C:\\Users\\naveed\\source\\repos\\AcmeMicroservices\\InventoryService\\Models\\Inventory.cs",
+              "RelativeDocumentMoniker": "InventoryService\\Models\\Inventory.cs",
+              "ToolTip": "C:\\Users\\naveed\\source\\repos\\AcmeMicroservices\\InventoryService\\Models\\Inventory.cs",
+              "RelativeToolTip": "InventoryService\\Models\\Inventory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T14:23:18.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "InventoryDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\naveed\\source\\repos\\AcmeMicroservices\\InventoryService\\Data\\InventoryDbContext.cs",
+              "RelativeDocumentMoniker": "InventoryService\\Data\\InventoryDbContext.cs",
+              "ToolTip": "C:\\Users\\naveed\\source\\repos\\AcmeMicroservices\\InventoryService\\Data\\InventoryDbContext.cs",
+              "RelativeToolTip": "InventoryService\\Data\\InventoryDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T14:24:13.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
               "Title": "ProductsController.cs",
               "DocumentMoniker": "C:\\Users\\naveed\\source\\repos\\AcmeMicroservices\\ProductService\\Controllers\\ProductsController.cs",
               "RelativeDocumentMoniker": "ProductService\\Controllers\\ProductsController.cs",
@@ -430,19 +461,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "OrdersController.cs",
-              "DocumentMoniker": "C:\\Users\\naveed\\source\\repos\\AcmeMicroservices\\OrderService\\Controllers\\OrdersController.cs",
-              "RelativeDocumentMoniker": "OrderService\\Controllers\\OrdersController.cs",
-              "ToolTip": "C:\\Users\\naveed\\source\\repos\\AcmeMicroservices\\OrderService\\Controllers\\OrdersController.cs",
-              "RelativeToolTip": "OrderService\\Controllers\\OrdersController.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAgwB8AAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-15T14:53:59.666Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 20,
               "Title": "OrderDto.cs",
               "DocumentMoniker": "C:\\Users\\naveed\\source\\repos\\AcmeMicroservices\\OrderService\\DTOs\\OrderDto.cs",
               "RelativeDocumentMoniker": "OrderService\\DTOs\\OrderDto.cs",
@@ -454,7 +473,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 21,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\naveed\\source\\repos\\AcmeMicroservices\\InventoryService\\Program.cs",
               "RelativeDocumentMoniker": "InventoryService\\Program.cs",
@@ -466,7 +485,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 22,
               "Title": "ProductServices.cs",
               "DocumentMoniker": "C:\\Users\\naveed\\source\\repos\\AcmeMicroservices\\ProductService\\Services\\ProductServices.cs",
               "RelativeDocumentMoniker": "ProductService\\Services\\ProductServices.cs",
@@ -487,30 +506,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-18T12:38:16.502Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "ProductCreatedEvent.cs",
-              "DocumentMoniker": "C:\\Users\\naveed\\source\\repos\\AcmeMicroservices\\SharedContracts\\ProductCreatedEvent.cs",
-              "RelativeDocumentMoniker": "SharedContracts\\ProductCreatedEvent.cs",
-              "ToolTip": "C:\\Users\\naveed\\source\\repos\\AcmeMicroservices\\SharedContracts\\ProductCreatedEvent.cs",
-              "RelativeToolTip": "SharedContracts\\ProductCreatedEvent.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-14T15:24:06.135Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "PaymentCompletedEvent.cs",
-              "DocumentMoniker": "C:\\Users\\naveed\\source\\repos\\AcmeMicroservices\\SharedContracts\\PaymentCompletedEvent.cs",
-              "RelativeDocumentMoniker": "SharedContracts\\PaymentCompletedEvent.cs",
-              "ToolTip": "C:\\Users\\naveed\\source\\repos\\AcmeMicroservices\\SharedContracts\\PaymentCompletedEvent.cs",
-              "RelativeToolTip": "SharedContracts\\PaymentCompletedEvent.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-15T14:46:50.079Z"
             },
             {
               "$type": "Document",
@@ -799,6 +794,10 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAMAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-13T15:23:34.066Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
             }
           ]
         }
